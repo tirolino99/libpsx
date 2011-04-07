@@ -1,0 +1,5 @@
+*.o
+.DS_Store
+project/bin/*
+project/gen/*
+project/libs/*
